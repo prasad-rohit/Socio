@@ -1,0 +1,8 @@
+-> For the seperation of concerns we are dividing the front end and back end logic seperating in 
+client folder for Front End part and server folder for Back End logic
+
+[FRONT END] 
+
+=> We start by initializing a React Application in client folder and cleaning up the not required
+files. Following which we make seperate folder for 'components' and 'pages' which will incorporate
+the reusable components and the pages
